@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(58, 48, 103);
+    color:aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainT{
+    align-self: center;
+    width: 35%;
+    margin:auto;
+    top: 50%;
+    margin-top: 10%;
+    background-color:rgb(92, 76, 162);
+    border-radius: 20px;
+    content: center;
+    text-align: center;
+vertical-align: middle;
+margin-bottom: 5%;
+}
+.forma{
+    margin:auto;
+    display: inline;
+}
+.routeSelector{
+    margin-top: 20px;
+}
+.depTable{
+    align-self: center;
+    content: center;
+    text-align: center;
+vertical-align: middle;
+border-color: rgb(112, 63, 204);
+border-width: 2px;
+border-style:solid;
+align-self: center;
+    margin:auto;
+    top: 20%;
+    margin-top: 3%;
+}
+.depTableCell{
+
+    border-color: rgb(112, 63, 204);
+border-width: 2px;
+border-style:solid;
+}
